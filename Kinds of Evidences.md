@@ -1,7 +1,7 @@
 
 # Kind of Evidences
 
-1. oral Evidences
+1. Oral Evidences
 2. Doucmentary Evidences
     a. Primary Evidences
     b. secondary evidences
@@ -20,4 +20,10 @@ The word document is defined in section 3 of Indian Evidence Act 1872 "Document 
 ## Primary Evidences
 Primary evidences which is produced for the inspection of the court should be original document .An original document is the first permanent records of a transation .this evidence is consider to be best evidences.section 62 defines primary evidences means the document itself produced for the inspection of the court. 
 ## Secondary Evidences
+Secondary evidence is copy of original document,which may be produced to court only in absence of primary evidences.This evidences have less evidentry value and not admissable easily in court.section 63 explains five kinds of swecondary evidence,they are;
+* Certified copied
+* Copies made from the original by mechanical processes and copies compared with such copies
+* Copies made from or compared with the original 
+* Counterparts of the documents as against the parties who did not execte them
+* Oral account of the contents of a document by a person who has seen it
 
