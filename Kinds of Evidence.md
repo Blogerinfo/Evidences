@@ -1,5 +1,5 @@
 
-# Kind of Evidences
+# Kind of Evidence
 
 1. Oral Evidence
 2. Doucmentary Evidence
@@ -11,7 +11,7 @@
 6. Circumstances Evidence
 7. Hearsay Evidence
 
-## Oral Evidences
+## Oral Evidence
 The term oral signifies by word of mouth.Oral evidences means all statement which the court permites or requires to be made before it by witnesses in relation to matter of a fact under enquiry.
 All facts other than the contents of a document may be proved by oral evidences and it should be directly seen,heared,sense or opinion of witnesses.Evidentary value is musch less satisfactory medium of proof when compare to documantry proof.
 section 59 and 60 defines proof of facts by oral evidence and oral eviences must be direct.
